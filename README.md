@@ -1,6 +1,6 @@
 # music_mania
 
-A cross platform application which which recognises voice and plays music according to the user.
+A cross platform application which recognises voice and plays music according to the user.
 
 # TECHNOLOGY STACK
 * Flutter using Dart
