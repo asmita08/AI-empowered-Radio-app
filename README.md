@@ -1,16 +1,24 @@
 # music_mania
 
-A new Flutter application.
+A cross platform application which which recognises voice and plays music according to the user.
 
-## Getting Started
+# TECHNOLOGY STACK
+*Flutter using Dart
 
-This project is a starting point for a Flutter application.
+*Alan Studio
 
-A few resources to get you started if this is your first Flutter project:
+*Android Studio
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# DEPENDENCIES
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*velocity_x: ^1.4.1
+
+*audioplayers: ^0.17.4
+
+*google_fonts: ^1.1.2
+
+*alan_voice: ^2.0.15
+
+This application is inspired from the Youtube Channel MTECHVIRAL. Thank you.
+
+
